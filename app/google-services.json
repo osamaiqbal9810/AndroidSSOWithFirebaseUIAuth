@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1083362621940",
+    "project_id": "ssowithfirebaseuiauth-c107b",
+    "storage_bucket": "ssowithfirebaseuiauth-c107b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083362621940:android:d098746f4936919fa021a1",
+        "android_client_info": {
+          "package_name": "com.ps19.androidssowithfirebaseuiauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083362621940-24prtck5r30qgl0mn0g6tokup7qaib6r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ps19.androidssowithfirebaseuiauth",
+            "certificate_hash": "a541b59960fb25ca2f040ef71e3556cfda194cb0"
+          }
+        },
+        {
+          "client_id": "1083362621940-9c38efgp520r548f347eqls844nhihub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBas2DrQCDUrYWcR2VTGsV7xPchcLcRECI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083362621940-9c38efgp520r548f347eqls844nhihub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
